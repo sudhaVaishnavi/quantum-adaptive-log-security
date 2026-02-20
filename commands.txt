@@ -1,0 +1,5 @@
+To start the project pipeline,
+in anaconda prompt
+1. conda activate quantumlog
+2. cd C:\Documents\quantum-secure-log-analysis
+3. python run_pipeline.py
